@@ -1,0 +1,15 @@
+<template>
+  <div>
+    <a href="../../llnl#video" target="" class="linkCard card" data-v-5e72df1a="" data-v-31688e32="" data-v-0f9575a0=""><!----> <div class="tag linkCardTag hasText" data-v-f3b0ef18="" data-v-5e72df1a=""><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 504 504" class="icon scaleIcon" style="width:18px;height:18px" data-v-f3b0ef18=""><path fill="currentColor" fill-rule="evenodd" d="m117.1 70 189 .346c1.2.002 2.399.487 3.299 1.348.8.861 1.3 2.028 1.3 3.243v13c0 2.532-2.099 4.58-4.599 4.575l-177.901-.325v320.159H376V92.512h-34.4c-2.6 0-4.6-2.052-4.6-4.583v-13c0-2.531 2-4.583 4.6-4.583h45.5c6.1 0 11.099 4.961 11.099 11.083v342c0 6.121-4.999 11.083-11.099 11.083h-270c-6.1 0-11.1-4.962-11.1-11.083V81.083c0-2.943 1.2-5.765 3.3-7.844 2-2.075 4.9-3.239 7.8-3.239Zm190.599 141.607c0 30.564-24.799 55.43-55.399 55.43s-55.401-24.866-55.401-55.43 24.801-55.429 55.401-55.429c30.6 0 55.399 24.865 55.399 55.429Zm-22.099 0c0-18.341-15-33.263-33.3-33.263-18.3 0-33.3 14.922-33.3 33.263 0 18.342 15 33.264 33.3 33.264 18.3 0 33.3-14.922 33.3-33.264ZM168.1 386.339h-13c-2.5 0-4.5-2.052-4.5-4.583v-90c0-6.122 4.9-11.083 11-11.083h180c6.2 0 11.099 4.961 11.099 11.083v89.388a4.553 4.553 0 0 1-4.599 4.583h-13c-2.5 0-4.5-2.052-4.5-4.583v-78.305H172.699v78.917a4.553 4.553 0 0 1-4.599 4.583Z" clip-rule="evenodd"></path></svg> <span data-v-f3b0ef18="">Success Story</span></div> <h3 class="title" data-v-5e72df1a="">Lawrence Livermore National Laboratory (LLNL)</h3> <div class="text" data-v-3e2cc26f="" data-v-5e72df1a=""><p data-v-3e2cc26f="">LLNL selected VAST’s high-performance &amp; easy to use all-flash based Universal Storage to unleash their HPC and Machine Learning efforts to drive drug efficacy.</p></div> <div class="bottom hasFirstItem" data-v-5e72df1a=""><div class="caption" data-v-5e72df1a="">2:20</div> <div class="button" data-v-4ffa1d47="" data-v-5e72df1a=""><div data-v-4ffa1d47=""><div data-v-4ffa1d47="" class="iconButton hasDarkText hasNoText hasHover"><!----> <div data-v-4ffa1d47="" class="iconWrapper hasDarkBlueBg isLight isMd" style="transform: rotate(0deg);"><svg data-v-4ffa1d47="" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 504 504" class="icon scaleIcon" style="width: 18px; height: 18px;"><path fill="currentColor" fill-rule="evenodd" d="m257.173 395.521-9.817-9.919c-1.801-1.794-1.696-4.59.106-6.375l112.17-112.17-249.027.44c-2.503 0-4.605-2.052-4.605-4.583v-12.997c0-2.531 2.102-4.583 4.605-4.583h276.294c4.505 0 8.509 2.705 10.211 6.853 1.802 4.145.929 9.028-2.275 12.194L263.68 395.536c-.801.858-2.002 1.338-3.204 1.335a4.84 4.84 0 0 1-3.303-1.35Zm13.81-286.106 97.179 97.18c1.571 1.571 1.925 4.752.049 6.628l-9.05 9.094c-1.802 1.758-4.95 1.459-6.752-.363l-97.298-97.297c-1.697-1.697-1.697-4.526.033-6.256l9.218-9.218c1.78-1.78 4.962-1.427 6.621.232Z" clip-rule="evenodd"></path></svg></div></div></div></div></div></a>
+  </div>
+</template>
+
+<script>
+export default {
+
+}
+</script>
+
+<style>
+
+</style>
